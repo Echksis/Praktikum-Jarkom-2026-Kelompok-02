@@ -12,15 +12,15 @@ Kelompok 2 LAN-Tester
 
 ## **Hasil Pengujian**
 ### **PC LAN**
-Pengujian PC LAN ke gateway Cisco,Fortigate, dan DMZ
+#### Pengujian PC LAN ke gateway Cisco,Fortigate, dan DMZ
 ![PC LAN](img/123.jpeg)
-Pengujian PC LAN ke IP DMZ
+#### Pengujian PC LAN ke IP DMZ
 ![PC LAN1](img/4.jpeg)
 
 ### **PC WAN**
-Pengujian PC WAN ke gate Mikrotik,Fortigate,PC LAN, dan DMZ
+#### Pengujian PC WAN ke gate Mikrotik,Fortigate,PC LAN, dan DMZ
 ![PC WAN](img/5689.jpeg)
-Pengujian PC WAN ke IP DMZ
+#### Pengujian PC WAN ke IP DMZ
 ![PC WAN1](img/7.jpeg)
 
 ### **Pengujian server DMZ ke PC LAN**
