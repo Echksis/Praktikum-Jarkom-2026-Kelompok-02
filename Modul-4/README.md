@@ -17,7 +17,7 @@ Kelompok 2 LAN-Tester
 #### **Konfigurasi IP Firewall**
 ![Mikrotik](mikrotik/ip_firewall.jpeg)
 #### **Konfigurasi IP Route**
-![Mikrotik](mikrotik/ip_route)
+![Mikrotik](mikrotik/ip_route.jpeg)
 
 ### **Cisco**
 #### **Konfigurasi Cisco**
