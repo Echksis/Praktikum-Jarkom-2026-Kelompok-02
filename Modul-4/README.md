@@ -9,6 +9,47 @@ Kelompok 2 LAN-Tester
 
 ## **Konfigurasi Tiap Perangkat**
 
+### **Mikrotik**
+#### **Konfigurasi IP Address**
+![Mikrotik](mikrotik/ip_address.jpeg)
+#### **Konfigurasi IP DHCP**
+![Mikrotik](mikrotik/ip_dhcp.jpeg)
+#### **Konfigurasi IP Firewall**
+![Mikrotik](mikrotik/ip_firewall.jpeg)
+#### **Konfigurasi IP Route**
+![Mikrotik](mikrotik/ip_route)
+
+### **Cisco**
+#### **Konfigurasi Cisco**
+![Cisco](cisco/cisco.jpeg)
+
+### **DMZ**
+#### **Konfigurasi UBuntu**
+![DMZ](DMZ/1.jpeg)
+![DMZ](DMZ/2.jpeg)
+
+### **Fortigate**
+#### **Konfigurasi Firewall Address**
+![Fort](fortigate/faddress.jpeg)
+![Fort](fortigate/faddress(2).jpeg)
+#### **Konfigurasi Firewall Policy**
+![Fort](fortigate/fpolicy.jpeg)
+#### **Konfigurasi Firewall VIP**
+![Fort](fortigate/fvip.jpeg)
+![Fort](fortigate/fvip1.jpeg)
+#### **Konfigurasi Interface**
+![Fort](fortigate/interface.jpeg)
+![Fort](fortigate/interface1.jpeg)
+#### **Konfigurasi Route Static**
+![Fort](fortigate/rstatic.jpeg)
+#### **Konfigurasi Routing Table**
+![Fort](fortigate/rtable.jpeg)
+
+### **Konfigurasi PC LAN & WAN **
+#### **Konfigurasi PC LAN**
+![LAN](img/LAN.jpeg)
+#### **Konfigurasi PC WAN**
+![WAN](img/WAN.jpeg)
 
 ## **Hasil Pengujian**
 ### **PC LAN**
