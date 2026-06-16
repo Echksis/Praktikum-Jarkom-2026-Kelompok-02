@@ -11,15 +11,12 @@ Kelompok 2 LAN Tester
 ![Modul 1](img/1.2.jpeg)
 
 ## **Tugas Modul 2**
-### Screenshot `show ip interface brief`
 ![Modul 2](img/2.1.jpeg)
-### Screenshot `show vrrp brief`
-![Modul 2](img/2.4.jpeg)
-### Screenshot konfigurasi subinterface
 ![Modul 2](img/2.2.jpeg)
-### Screenshot ping dari Cisco Router ke FortiGate Jakarta 
-![Modul 2](img/2.3.jpeg)
 
+## **Tugas Modul 3**
+![Modul 2](img/2.3.jpeg)
+![Modul 2](img/2.4.jpeg)
 ## **Tugas Modul 5**
 
 ![Modul 3](img/3.1.jpeg)
